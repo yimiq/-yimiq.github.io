@@ -8,6 +8,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/exercise/test/index.html</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/menu3/index.html</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -21,6 +27,12 @@
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/exercise/index.html</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
